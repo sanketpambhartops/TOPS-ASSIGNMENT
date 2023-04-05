@@ -1,0 +1,14 @@
+1)What is software? What is software engineering?
+ans:Software is considered to be collection of executable programming code,
+associated libraries and documentations.
+
+2)Explain types of software:
+1.Application Software
+2.System Software
+3.Programming Software
+4.Driver Software
+
+3)What is SDLC? Explain each phase of SDLC.
+Purpose of SDLC is to deliver a high-quality product which is as per the customer's requirement. 
+SDLC has defined its phases as, Requirement gathering, Designing, Coding, Testing, and Maintenance. 
+It is important to adhere to the phases to provide the Product in a systematic manner.
