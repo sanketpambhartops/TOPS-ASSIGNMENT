@@ -1,14 +1,58 @@
 1)What is software? What is software engineering?
-ans:Software is considered to be collection of executable programming code,
-associated libraries and documentations.
+ans:
+        Software is considered to be collection of executable programming code,
+    associated libraries and documentations.
 
 2)Explain types of software:
-1.Application Software
-2.System Software
-3.Programming Software
-4.Driver Software
+ans:
+    1.Application Software
+    2.System Software
+    3.Programming Software
+    4.Driver Software
 
 3)What is SDLC? Explain each phase of SDLC.
-Purpose of SDLC is to deliver a high-quality product which is as per the customer's requirement. 
-SDLC has defined its phases as, Requirement gathering, Designing, Coding, Testing, and Maintenance. 
-It is important to adhere to the phases to provide the Product in a systematic manner.
+ans:
+        Purpose of SDLC is to deliver a high-quality product which is as per the customer's requirement. 
+    SDLC has defined its phases as, Requirement gathering, Designing, Coding, Testing, and Maintenance. 
+    It is important to adhere to the phases to provide the Product in a systematic manner.
+
+4)What is DFD? Create a DFD diagram on Flipkart
+ans:
+        DFD is the abbreviation for Data Flow Diagram. The flow of data of a system or a process is represented by DFD. 
+    It also gives insight into the inputs and outputs of each entity and the process itself. 
+    DFD does not have control flow and no loops or decision rules are present. Specific operations depending on the type of data can be explained by a flowchart.
+
+    It is a graphical tool, useful for communicating with users ,managers and other personnel. it is useful for analyzing existing as well as proposed system.
+
+    It provides an overview of 
+
+    What data is system processes.
+    What transformation are performed.
+    What data are stored.
+    What results are produced , etc.
+    Data Flow Diagram can be represented in several ways. The DFD belongs to structured-analysis modeling tools. 
+    Data Flow diagrams are very popular because they help us to visualize the major steps and data involved in software-system processes.
+
+*DFD diagram on flipkartL:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
